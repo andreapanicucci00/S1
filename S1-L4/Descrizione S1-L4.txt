@@ -1,0 +1,8 @@
+
+Il processo di invio di un pacchetto da una macchina a un’altra all’interno di una rete coinvolge diversi livelli o “strati”
+
+Layer fisico (Layer 1): Inizia con la creazione del pacchetto a livello fisico, dove l’hardware della macchina coinvolta genera il pacchetto.
+Layer datalink (Layer 2): Il pacchetto viene quindi inviato al secondo livello, che riconosce la macchina mittente tramite l’indirizzo MAC (Media Access Control). 
+Questo livello è in grado di riconoscere anche la macchina destinataria all’interno della stessa rete.
+Layer di rete (Layer 3): Successivamente, il pacchetto passa al terzo livello, dove un router riconosce l’indirizzo IP della macchina mittente. Qui inizia il processo di “destratificazione”. L’router invia il pacchetto a uno switch nella rete di destinazione, che a sua volta lo inoltra al destinatario.
+È importante notare che la prima volta che questo processo avviene, l’operazione “ping” genererà solo una risposta (reply) e non la ricezione effettiva del pacchetto. Questo perché la macchina destinataria deve prima “conoscere” la macchina mittente.
