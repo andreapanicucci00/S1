@@ -1,0 +1,66 @@
+1.1.1.1/8: 
+
+● Indirizzo IP: 1.1.1.1 
+● Notazione CIDR: /8 
+● La subnet mask è 255.0.0.0 
+● L'IP network corretto è 1.0.0.0 
+
+128.1.6.5/12: 
+
+● Indirizzo IP: 128.1.6.5 
+● Notazione CIDR: /12 
+● La subnet mask è 255.240.0.0 
+● L'IP network corretto è 128.0.0.0 
+
+200.1.2.3/24: 
+
+● Indirizzo IP: 200.1.2.3 
+● Notazione CIDR: /24 
+● La subnet mask è 255.255.255.0 
+● L'IP network corretto è 200.1.2.0
+
+192.192.1.1/22: 
+● Indirizzo IP: 192.192.1.1 
+● Notazione CIDR: /22 
+● La subnet mask è 255.255.252.0 
+● L'IP network corretto è 192.192.0.0 
+
+126.5.4.3/9: 
+
+● Indirizzo IP: 126.5.4.3 
+● Notazione CIDR: /9 
+● La subnet mask è 255.128.0.0 
+● L'IP network corretto è 126.0.0.0 
+
+200.1.9.8/24: 
+
+● Indirizzo IP: 200.1.9.8 
+● Notazione CIDR: /24 
+● La subnet mask è 255.255.255.0 
+● L'IP network corretto è 200.1.9.0 
+
+172.16.0.4/16: 
+
+● Indirizzo IP: 172.16.0.4 
+● Notazione CIDR: /16 
+● La subnet mask è 255.255.0.0 
+● L'IP network corretto è 172.16.0.0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
